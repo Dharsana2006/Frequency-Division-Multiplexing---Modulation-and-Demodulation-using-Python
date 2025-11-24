@@ -110,8 +110,13 @@ subplot(3,2,6); plot(t,dm6); title("Recovered Signal 6");
 __Output_:
 
 <img width="626" height="901" alt="image" src="https://github.com/user-attachments/assets/d4597242-a51a-4c34-8448-1aee5ce97dfb" />
+__Calculation__:
+![WhatsApp Image 2025-11-24 at 13 11 09_bcee82f6](https://github.com/user-attachments/assets/c944101e-81fd-4d4a-8412-aea2bff047c6)
 
 __Result__:
+
+<img width="1228" height="463" alt="image" src="https://github.com/user-attachments/assets/2e88e198-bd9b-456f-961c-cce693be4c86" />
+
 
 The Frequency Division Multiplexing (FDM) and Demultiplexing of six different message signals were successfully implemented using SCILAB.All six message signals were modulated with distinct carrier frequencies and combined to form a single multiplexed signal. Upon demodulation and low-pass filtering, each original message signal was accurately recovered, verifying the correct working of the FDM and demultiplexing process.
 
